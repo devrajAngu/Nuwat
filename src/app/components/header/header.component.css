@@ -1,0 +1,88 @@
+.logo {
+    width: 7rem;
+    border-radius: 7px
+}
+
+.fixed {
+    position: fixed;
+    width: 100%;
+    transition: 0.2s linear;
+    top: 0;
+}
+
+.nofixed {
+    position: static;
+    transition: 0.2 linear;
+}
+
+.navbar-nav>a:active {
+    color: yellow;
+    background-color: rgb(12, 5, 110);
+}
+
+.navbar-nav>a:hover {
+    border-bottom: 3px solid yellow;
+}
+
+.new-nav {
+    background-color: gold;
+    position: fixed;
+    top: 0;
+}
+
+
+
+
+
+@media (max-width: 720px) {
+    .mid-logo {
+        margin-left: 35%;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: center;
+    }
+
+    .bg-light {
+        position: absolute;
+        z-index: 2;
+        width: 100%;
+        background: #00000000 !important;
+        color: white !important;
+    }
+
+    .navbar-nav>a {
+        color: white;
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    .admin {
+        display: flex;
+        position: relative;
+        left: 5rem;
+        font-size: 22px;
+        cursor: pointer;
+
+    }
+
+    .use {
+        background-color: yellow;
+        color: black;
+        width: 39px;
+        text-align: center;
+        border-radius: 50%;
+    }
+
+    .use:hover {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        width: 39px;
+        text-align: center;
+        border-radius: 50%;
+    }
+}
