@@ -1,0 +1,40 @@
+/* .wrap{
+    margin-bottom: 4rem;
+    background-image: url('../../../assets/images/bg-chiar.png') fixed center center; 
+    
+} */
+.wrap{
+    background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(227, 208, 5, 0)),url('../../../assets/images/bg-chiar.png') fixed center center;
+    background-size: cover;
+    /* padding: 60px 0; */
+    color: white;
+    /* height: 300px; */
+  }
+.header{
+    text-align: center;
+    padding: 20px;
+    color: #444242;
+}
+.box{
+    width: 300px;
+    
+}
+.img{
+    width: 100%;
+}
+.chir-text-name{
+    padding: 1rem;
+    color: green;
+    padding-top: 6rem;
+
+}
+.display{
+    display: flex;
+   padding: 2rem;
+}
+.text-content{
+    color: black;
+    background-color: #ffffff66;
+    margin-right: 30px;
+    padding: 21px;
+}
