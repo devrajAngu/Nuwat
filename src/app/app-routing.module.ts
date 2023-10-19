@@ -4,6 +4,7 @@ import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/login/login.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
 import { LandingPageComponent } from './components/landing-page/landing-page.component';
+import { MembersComponent } from './components/members/members.component';
 
 const routes: Routes = [
   {path:'login', component:LoginComponent},
@@ -13,6 +14,8 @@ const routes: Routes = [
     children: [
       {path:'', pathMatch:'full', component:HomeComponent },
       {path:'about', component: AboutUsComponent},
+      {path:'members', component: MembersComponent},
+
        // Add this route for the 'notes' component
     ]
   },

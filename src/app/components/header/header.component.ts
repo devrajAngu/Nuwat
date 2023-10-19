@@ -21,4 +21,7 @@ export class HeaderComponent {
     this.router.navigate(['/login'],{relativeTo:this.route})
   }
 
+  members(){
+    this.router.navigate(['/members'],{relativeTo:this.route});
+  }
 }

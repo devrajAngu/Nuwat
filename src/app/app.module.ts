@@ -11,6 +11,7 @@ import { AboutUsComponent } from './components/about-us/about-us.component';
 import { LandingPageComponent } from './components/landing-page/landing-page.component';
 import { LoginComponent } from './components/login/login.component';
 import { ChairmanMessComponent } from './components/chairman-mess/chairman-mess.component';
+import { MembersComponent } from './components/members/members.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { ChairmanMessComponent } from './components/chairman-mess/chairman-mess.
     AboutUsComponent,
     LandingPageComponent,
     LoginComponent,
-    ChairmanMessComponent
+    ChairmanMessComponent,
+    MembersComponent
   ],
   imports: [
     BrowserModule,
