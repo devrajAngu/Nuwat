@@ -213,7 +213,7 @@
 
 
 .section-4{
-  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(227, 208, 5, 0)),url('../../../assets/images/templatemo-wave-footer.jpg') fixed center center;
+  background: url('../../../assets/images/templatemo-wave-footer.jpg') fixed center center;
   background-size: cover;
   padding: 60px 0;
   color: white;
