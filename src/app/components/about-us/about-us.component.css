@@ -22,7 +22,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 400px;
+    /* height: 400px; */
 }
 .text-header{
     text-align: center;
@@ -30,8 +30,9 @@
     background: #ffffff8f;
 }
 .content-about{
-    width: 498px;
     padding-left: 20px;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
 }
 .card{
     padding: 1rem;
