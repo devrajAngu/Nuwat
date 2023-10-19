@@ -219,3 +219,11 @@
   color: white;
   height: 300px;
 }
+.section-header{
+  padding: 20px;
+  text-align: center;
+}
+.btn-start{
+  background-color: #ffff00;
+  color: black;
+}

@@ -8,3 +8,31 @@
 .Vector_img{
     height: 100%;
 }
+.text-header-box{
+    position: relative;
+    width: 49rem;
+    bottom: 16rem;
+    padding: 22px;
+    background: #ffffffcf;
+    color: #078207;
+    margin-left: 35px;
+}
+.section-1{
+    background-image:url('../../../assets/images/hero-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.text-header{
+    text-align: center;
+    padding: 20px;
+    background: #ffffff8f;
+}
+.content-about{
+    width: 498px;
+    padding-left: 20px;
+}
+.card{
+    padding: 1rem;
+}
