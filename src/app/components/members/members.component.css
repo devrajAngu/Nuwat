@@ -26,6 +26,8 @@
   }
 .box-chairman{
     display: flex;
+    background: rgb(220 220 220);
+    padding: 20px;
 }
 .chiar-text{
     padding: 28px;
