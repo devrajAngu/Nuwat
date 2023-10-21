@@ -28,6 +28,7 @@
     display: flex;
     background: rgb(220 220 220);
     padding: 20px;
+    width: 44%;
 }
 .chiar-text{
     padding: 28px;
@@ -36,14 +37,14 @@
 }
 
   .main-box{
-    background-color: #629fb2;
+    background-color: #005d7b;
     display: flex;
     padding: 6px;
     border-radius: 7px;
     height: 16rem;
     margin-left: 3rem;
     margin-top: 3rem;
-    box-shadow: 2px -2px 16px 2px #36bf27;
+    box-shadow:2px -2px 16px 2px #636562;
   }
   .profile-img{
     width: 185px;

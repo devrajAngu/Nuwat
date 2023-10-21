@@ -24,4 +24,10 @@ export class HeaderComponent {
   members(){
     this.router.navigate(['/members'],{relativeTo:this.route});
   }
+  terms(){
+    this.router.navigate(['/terms-condition'],{relativeTo:this.route});
+  }
+
+
+  
 }

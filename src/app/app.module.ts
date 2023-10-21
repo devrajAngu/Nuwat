@@ -12,6 +12,8 @@ import { LandingPageComponent } from './components/landing-page/landing-page.com
 import { LoginComponent } from './components/login/login.component';
 import { ChairmanMessComponent } from './components/chairman-mess/chairman-mess.component';
 import { MembersComponent } from './components/members/members.component';
+import { RegistrationComponent } from './components/registration/registration.component';
+import { TermsConditionsComponent } from './components/terms-conditions/terms-conditions.component';
 
 
 @NgModule({
@@ -25,7 +27,9 @@ import { MembersComponent } from './components/members/members.component';
     LandingPageComponent,
     LoginComponent,
     ChairmanMessComponent,
-    MembersComponent
+    MembersComponent,
+    RegistrationComponent,
+    TermsConditionsComponent
   ],
   imports: [
     BrowserModule,

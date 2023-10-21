@@ -1,0 +1,16 @@
+.wrap{
+    height: 100vh;
+    background-image: url('../../../assets/images/hero-bg.png');
+    overflow: hidden;
+}
+.q-page{
+    margin-top: 10rem;
+    padding: 4rem;
+}
+.btn-start{
+    background-color: yellow;
+    color: black;
+}
+.btt-n{
+    margin-top: 2rem;
+}
