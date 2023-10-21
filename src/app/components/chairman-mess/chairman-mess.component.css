@@ -4,7 +4,7 @@
     
 } */
 .wrap{
-    background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(227, 208, 5, 0)),url('../../../assets/images/bg-chiar.png') fixed center center;
+    background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(227, 208, 5, 0)),url('../../../assets/images/hexagon1.jpg') fixed center center;
     background-size: cover;
     /* padding: 60px 0; */
     color: white;
@@ -31,6 +31,9 @@
 .display{
     display: flex;
    padding: 2rem;
+   background-color: #ffffff66;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
 }
 .text-content{
     color: black;
