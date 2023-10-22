@@ -142,7 +142,7 @@ a {
 .top-bar {
   width: 50%;
   height: 5px;
-  background: #44fc0f;
+  background: #eacd02 !important;
   position: absolute;
   top: 0px;
   left: 50%;
@@ -200,7 +200,7 @@ a {
 }
 .content strong {
   font-weight: 600;
-  color: #54ff5d;
+  color: #eacd02 ;
   margin-top: 10px;
 }
 .content p {

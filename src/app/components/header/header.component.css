@@ -48,7 +48,7 @@
         color: white !important;
     }
     .navbar-nav>a {
-        color: #008420;
+        color: #000000;
         font-size: 15px;
         font-weight: 700;
     }
@@ -70,7 +70,7 @@
     }
 
     .navbar-nav>a {
-        color: #008420;
+        color: #000000;
         font-size: 15px;
         font-weight: 700;
     }
@@ -85,7 +85,7 @@
     }
 
     .use {
-        background-color: #008420;
+        background-color: #f3e124;
         color: white;
         width: 39px;
         text-align: center;

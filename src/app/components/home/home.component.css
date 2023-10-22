@@ -228,12 +228,13 @@
   color: black;
 }
 .border{
-  background: #fcf67e !important;
+  background: #eacd02 !important;
   cursor: pointer;
-  color: #403e3e;
+  color: #ffffff;
   box-shadow: 1px 5px 15px -1px #acb1af;
   border: none !important;
 }
 .bg-dark{
-  background: #3ad57b !important;
+  background: #ffffff !important;
+  color: black;
 }
